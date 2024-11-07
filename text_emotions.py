@@ -15,7 +15,6 @@ from sklearn.svm import LinearSVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 
-%matplotlib inline
 
 st.write("# Text Emotions Prediction")
 t1 = st.text_input("Enter any text>>: ")
